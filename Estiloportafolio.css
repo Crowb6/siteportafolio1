@@ -1,0 +1,351 @@
+@charset "utf-8";
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.H1 {
+    color: #6E7B65;
+    height: 100px;
+
+ font-family:font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
+    color: #6E7B65;
+    font-variant: small-caps;
+    text-align: center;
+    background-position: 50px 0%;
+}
+.S1{
+    background-color: #ADCDB3;
+    padding-top: 20px;
+    width: 100%;
+    height: 600px;
+}
+body{background-color:#DBE6D8 ;}
+header {
+	background: 
+#DBE6D8;}
+.Yo {
+    left: 1050px;
+    background-color: #DBE6D8;
+    top: 240px;
+    position: absolute;
+
+}
+h2 {
+    color: #6E7B65;
+    text-align: center;
+    background-position: 123% 95%;
+    background-size: cover;
+    background-clip: border-box;
+    background-repeat: repeat;
+    border-width: medium;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    height: 427px;
+    position: absolute;
+    right: 1050px;
+    top: 240px;
+    min-width: 0px;
+    width: 300px;
+    font-size: 20px;
+
+
+
+}
+nav {
+    background: #6E7B65;
+    text-align: center;
+    width: 100%;
+}
+.nav {
+    height: 50px;
+    align-content: center;
+    top: 0px;
+    padding-top: 15px;
+    width: 100%;
+}
+
+
+ul, li, ol{
+    display: inline-block;
+    color: #E5E5E5;
+    text-align: center;
+    font-size: 25px;
+    margin-right: 85px;
+}
+ol {
+	
+}.apartado {
+    text-align: center;
+}
+a {
+	color: aliceblue;
+	align-content: center;
+	
+}
+section{
+	align-content: center;
+padding: 20px;
+}
+.contacto {
+    margin-top: 400px;
+    margin-right: 385px;
+    margin-bottom: 385px;
+    margin-left: 1600px;
+}
+	
+}
+.indice {
+    background-color: #BF0105;
+    width: 100%;
+    height: 300px;
+}
+.cuadro1{
+    background-color: #DBE6D8;
+    width: 80%;
+    height: 600px;
+    border-radius: 16px;
+    margin-left: 50px;
+    float: left;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    position: absolute;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    right: 200px;
+    left: 200px;
+}	
+	
+	.seccion2 {
+    width: 100%;
+    height: 800px;
+    background-color: #75A586;
+    padding-top: 40px;
+}
+.titulocuadro {
+    color: #54783E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin-bottom: 3px;
+}
+.foto {
+    float: left;
+    position: absolute;
+    left: 152px;
+	
+}
+.tableta {
+    position: absolute;
+    float: left;
+    left: 622px;
+}
+.analogo {
+    left: 1090px;
+    position: absolute;
+}
+.cartel {
+    position: absolute;
+    left: 1474px;
+}
+.modelado {
+    position: absolute;
+    left: 1858px;
+}
+.marca {
+    position: absolute;
+    left: 868px;
+    top: 338px;
+}
+.logo {
+    position: absolute;
+    left: 1282px;
+    top: 338px;
+}
+.foto1 {
+    position: absolute;
+    left: 200px;
+
+}
+.seccion3 {
+    background-color: #ADCDB3;
+    width: 100%;
+    height: 4933px;
+}
+.foto2 {
+    left: 166px;
+    top: 3211px;
+    position: absolute;
+}
+.foto3 {
+    position: absolute;
+    left: 200px;
+    top: 4798px;
+}
+.D1 {
+    position: absolute;
+    left: 200px;
+}
+.seccion4 {
+    background-color: #75A586;
+    width: 100%;
+    height: 3282px;
+}
+.D2 {
+    left: 200px;
+    top: 8135px;
+    position: absolute;
+}
+.A1 {
+    position: absolute;
+    left: 200px;
+}
+.A2 {
+    position: absolute;
+    left: 200px;
+    top: 11468px;
+}
+.seccion5 {
+    width: 100%;
+    height: 3241px;
+    background-color: #ADCDB3;
+}
+.3D {
+    left: 200px;
+    position: absolute;
+}
+.seccion6 {
+    background-color: #75A586;
+    width: 100%;
+    height: 1798px;
+}
+.marca1 {
+    position: static;
+    left: 200px;
+}
+.marca2 {
+    left: 200px;
+    position: absolute;
+    top: 16500px;
+}
+.seccion7 {
+    background-color: #ADCDB3;
+    width: 100%;
+    height: 3105px;
+}
+.logotipa {
+    position: absolute;
+    left: 200px;
+}
+.seccion8 {
+    background-color: #75A586;
+    width: 100%;
+    height: 1772px;
+}
+.final {
+    background-color: #DBE6D8;
+    width: 100%;
+    height: 150px;
+}
+.final1 {
+    margin-left: 500px;
+    margin-right: 500px;
+    padding-top: 21px;
+}
+.insta {
+    position: absolute;
+    left: 563px;
+
+}
+.tiktok {
+    position: absolute;
+    left: 1405px;
+}
+.twitch {
+    left: 2388px;
+    position: absolute;
+
+}
+.foto:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+.analogo:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+.cartel:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+.modelado:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+.marca:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+.logo:hover{
+	width: 20%;
+	height: auto;
+	transform: scale(1.5);}
+
+
+
